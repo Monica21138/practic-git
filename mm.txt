@@ -1,4 +1,7 @@
 
  world
 hello
+<<<<<<< HEAD
 
+=======
+>>>>>>> 75fa68c... hello added
