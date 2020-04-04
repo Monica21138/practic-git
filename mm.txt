@@ -1,3 +1,10 @@
 
  world
 hello
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+
+=======
+>>>>>>> 75fa68c... hello added
+>>>>>>> ac6deab... hello added
